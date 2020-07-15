@@ -1,0 +1,2 @@
+# JSassignment
+day 2
